@@ -20,3 +20,6 @@ div#tag-3 .slick-wicked {
 .parent #tag-6 {
   display: none;
 }
+.parent #tag-7 .slick {
+  display: none;
+}
