@@ -14,4 +14,6 @@ div#tag-3 .slick-wicked {
 .parent #tag-4 {
   display: none;
 }
-.parent #tag-5 
+.parent #tag-5 .slick {
+  display: none;
+}
